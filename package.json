@@ -1,14 +1,14 @@
 {
-  "name": "fireshell",
-  "title": "Fiercely quick and opinionated front-ends",
-  "url": "http://getfireshell.com",
-  "author": "Todd Motto",
-  "copyright": "2013",
-  "version": "1.1.0",
+  "name": "SHRAVEL",
+  "title": "SHRAVEL website",
+  "url": "http://www.shravel.eu",
+  "author": "Dominic Rico-Gomez",
+  "copyright": "2016",
+  "version": "0.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/toddmotto/fireshell.git"
+    "url": "http://github.com/dominicrico/shravel.git"
   },
   "devDependencies": {
     "bower": "^1.7.7",
